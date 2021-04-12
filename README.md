@@ -28,9 +28,9 @@ The contributor on this app is myself, Briana Brucato.
 The license used for this app is [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) .
 
 ## Screenshots
-
+[Gif of Deployed App](screenshots/em-directory.gif)
 
 ## URLs
-[Deployed URL]()
+[Deployed URL](https://bebrucato.github.io/employee-directory/)
 
 [GitHub Repository](https://github.com/bebrucato/employee-directory)
