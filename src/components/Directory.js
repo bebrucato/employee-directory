@@ -44,7 +44,7 @@ class Directory extends Component {
       <div className="background">
         <div className="jumbotron jumbotron-fluid">
           <h2 className="display-4">Employee Directory</h2>
-          <p> Search for an employee by entering their name or email below.</p>
+          <p> To search for an employee, please enter an employee's name or email.</p>
           <Search name="search" startSort={this.startSort} label="Search" />
         </div>
 
